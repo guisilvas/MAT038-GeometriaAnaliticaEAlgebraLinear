@@ -16,4 +16,4 @@ Pré-requisitos: [nenhum]
 
 ---
 
-(Calculadora de Matrizes)[https://matrix.reshish.com/ptBr/]
+[Calculadora de Matrizes](https://matrix.reshish.com/ptBr/)
