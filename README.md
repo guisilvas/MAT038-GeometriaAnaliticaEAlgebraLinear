@@ -13,3 +13,7 @@ Carga horária: 60h
 Créditos: 4 créditos
 
 Pré-requisitos: [nenhum]
+
+---
+
+(Calculadora de Matrizes)[https://matrix.reshish.com/ptBr/]
