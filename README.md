@@ -4,7 +4,7 @@ Como assimilar o conteúdo da disciplina.
 
 ## 1. Estudo prévio
 
-- Leia previamente a seção correspondente ao conteúdo programado pelo professor nas notas de aula do Prof. Reginaldo Santos (disponível em: **[/Notas/NotasDeAula-reginaldosantos.pdf]**).
+- Leia previamente a seção correspondente ao conteúdo programado pelo professor nas notas de aula do Prof. Reginaldo Santos (disponível em: **[Notas/NotasDeAula-reginaldosantos.pdf]**).
 
 O objetivo aqui é familiarizar-se com os conceitos que serão apresentados. Foque em definições, teoremas, exemplos, dúvidas e pontos que não ficaram claros.
 
@@ -17,9 +17,9 @@ Resolva os exercícios propostos para aquela seção das notas de aula e, quando
 Tente identificar possíveis causas em erros cometidos durante os estudos:
 * não compreensão do conceito; -> Reveja a teoria e faça exercícios com nível de dificuldade crescente.
 * desconhecimento de método a ser utilizado; -> Veja a solução de exercícios similares, e, com base nas técnicas utilizadas, tente resolvê-lo.
-* erro algébrico ou de cálculo; -> Identifique a causa do erro e refaça o exercícios e outros similares a este.
-* conhecia o método, mas não consegui executá-lo; -> Reveja a teoria por trás do método e em quais circunstâncias e como ele pode ser utilizado.
-* interpretei incorretamente o problema; -> -> Tente solucionar exercícios mais simples até entender o método de resolução.
+* erro algébrico ou de cálculo; -> Identifique a causa do erro e refaça o exercício e outros similares a este.
+* conhecimento do método com erro de execução; -> Reveja a teoria por trás do método, em quais circunstâncias e como ele pode ser utilizado.
+* interpretação incorreta do problema; -> Tente solucionar exercícios mais simples até entender o método de resolução.
 
 ## 3. Revisões
 
@@ -46,7 +46,7 @@ Se você se esqueceu de um assunto, provavelmente você não o aprendeu.
 
 ## 3. Terceira revisão — aproximadamente 1 semana depois
 
-Continue esse passo a cada 1 semana.
+Continue esse passo a cada semana.
 
 * tente recordar o conteúdo sem consultar as notas;
 * resolva exercícios sem consultar previamente a solução ou o método;
