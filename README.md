@@ -4,7 +4,7 @@ Como assimilar o conteúdo da disciplina.
 
 ## 1. Estudo prévio
 
-- Leia previamente a seção correspondente ao conteúdo programado pelo professor nas notas de aula do Prof. Reginaldo Santos (disponível em: **[Notas/NotasDeAula-reginaldosantos.pdf]**).
+- Leia previamente a seção correspondente ao conteúdo programado pelo professor nas notas de aula do Prof. Reginaldo Santos (disponível em: **[Notas](NotasDeAula-reginaldosantos.pdf)**).
 
 O objetivo aqui é familiarizar-se com os conceitos que serão apresentados. Foque em definições, teoremas, exemplos, dúvidas e pontos que não ficaram claros.
 
